@@ -32,14 +32,17 @@
   "tags": [
     "react",
     "component",
-    "react-component",
-    "react-components"
+    "highlight",
+    "highlighter",
+    "highlighting",
+    "react-component"
   ],
   "keywords": [
     "react",
     "component",
     "highlight",
     "highlighter",
-    "highlighting"
+    "highlighting",
+    "react-component"
   ]
 }
