@@ -1,0 +1,45 @@
+{
+  "name": "react-text-highlighting",
+  "version": "0.0.0",
+  "description": "react text highlight component",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": ".git"
+  },
+  "homepage": "",
+  "bugs": "/issues",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "exit 0",
+    "start": "rackt server"
+  },
+  "authors": [
+    "Quentin Cuvillier"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "rackt-cli": "^0.4.0",
+    "react": "0.14.7",
+    "react-dom": "0.14.7"
+  },
+  "peerDependencies": {
+    "react": "0.14.7",
+    "react-dom": "0.14.7"
+  },
+  "tags": [
+    "react",
+    "component",
+    "react-component",
+    "react-components"
+  ],
+  "keywords": [
+    "react",
+    "component",
+    "highlight",
+    "highlighter",
+    "highlighting"
+  ]
+}
