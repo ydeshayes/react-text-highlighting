@@ -1,6 +1,6 @@
 {
   "name": "react-text-highlighting",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "react text highlight component",
   "main": "./lib/index.js",
   "repository": {
