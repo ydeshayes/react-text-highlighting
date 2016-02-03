@@ -16,9 +16,10 @@
     "test": "exit 0",
     "start": "rackt server"
   },
-  "authors": [
-    "Quentin Cuvillier"
-  ],
+  "author": {
+    "name": "Quentin Cuvillier",
+    "email": "cuvillier.quentin@gmail.com"
+  },
   "license": "MIT",
   "devDependencies": {
     "rackt-cli": "^0.4.0",
